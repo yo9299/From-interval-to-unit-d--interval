@@ -1,7 +1,5 @@
 # From-interval-to-unit-d--interval
 
-<h1> Unit 2-interval graph checker  </h1>
-
 This python script transforms a given interval graph into a unit $d$-interval graph for the smallest $d$ possible.
 
 
